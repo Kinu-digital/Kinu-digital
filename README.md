@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kinu-digital. *(just simply call me Kinu)*
 - 👀 I’m interested in graphics and their implementations through programming and network.
 - 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- ~💞️ I’m looking to collaborate on...~
 - 📫 You may reach me through Discord. My ID is Kinu#7046
 
 <!---
